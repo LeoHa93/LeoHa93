@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @LeoHa93
+- 👋 Hi, I’m JongSoo Ha.
 - 👀 I’m interested in
   Language : Java, Go, Swift
   Framework : SpringBoot(Both Maven and Gradle)
-  4th industrial revolution Tech : Blockchain (esp, Hyperledger Fabric)
+  Blockchain (esp, Hyperledger Fabric)
+  
   
 - 🌱 I’m currently Junior Developer.
-- 💞️ I’m looking to collaborate on ...
+- 🎓KwangWoon Univ. (2013.03-2020.08)
+    Eonnam High School (2009.03-2012.02)
 - 📫 How to reach me ...
   email : neo415ha@gmail.com
 
