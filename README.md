@@ -1,6 +1,4 @@
 - 👋 Hi, I’m JongSoo Ha.
-- 👀 I’m interested in
-  Language : Java, Go, Swift
   Framework : SpringBoot(Both Maven and Gradle)
   Blockchain (esp, Hyperledger Fabric)
   
